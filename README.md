@@ -40,13 +40,20 @@ Pandas - for data manipulation and preprocessing
 Glob - for file handling and directory traversal
 NumPy - for numerical calculations and array manipulation
 Dask - for handling large datasets and efficient processing
-Power BI: Interactive data visualization and dashboard creation.
-DAX: Used in Power BI for creating custom measures.
-PowerPoint: SVG creation for dashboard canvas.
-Git: Version control to manage script changes and post-project updates to GitHub.
-Installation and Setup
 
-# Clone the repository:
+# Power BI: 
+Interactive data visualization and dashboard creation.
+
+# DAX:
+Used in Power BI for creating custom measures.
+
+# PowerPoint:
+SVG creation for dashboard canvas.
+## Git: Version control to manage script changes and post-project updates to GitHub.
+
+### Installation and Setup
+
+Clone the repository:
 git clone https://github.com/cruise345/2024-citibike-data-analysis.git
 Install the required Python packages:
 pip install pandas glob numpy dask
@@ -59,8 +66,3 @@ Adjust or customize the Power BI visuals as needed.
 Contributing
 
 Feel free to fork this repository, create a branch, and submit pull requests if you'd like to contribute!
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
