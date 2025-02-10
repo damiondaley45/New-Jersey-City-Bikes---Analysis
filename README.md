@@ -4,6 +4,8 @@
 
 This project involves collecting, cleaning, transforming, and analyzing 2024 YTD New Jersey CitiBike data. The data was scraped using Python, processed through various data transformations, and visualized in an interactive Power BI dashboard. The goal is to provide insights into biking trends, trip characteristics, and user behaviors across the CitiBike network.
 ![Screenshot 2025-02-09 201059](https://github.com/user-attachments/assets/7ebeb148-3b60-4dfb-a3eb-8452e5961445)
+![Screenshot 2025-02-09 201156](https://github.com/user-attachments/assets/8619f888-4e97-49f2-b585-ec94c3b80f26)
+
 
 #Features
 
