@@ -1,8 +1,8 @@
-# 2024 New York CitiBike Data Analysis Project
+# 2024 New Jersey CitiBike Data Analysis Project
 # LinkedIN: [Damion Daley](www.linkedin.com/in/damiondaley)
 # Project Overview
 
-This project involves collecting, cleaning, transforming, and analyzing 2024 YTD New York CitiBike data. The data was scraped using Python, processed through various data transformations, and visualized in an interactive Power BI dashboard. The goal is to provide insights into biking trends, trip characteristics, and user behaviors across the CitiBike network.
+This project involves collecting, cleaning, transforming, and analyzing 2024 YTD New Jersey CitiBike data. The data was scraped using Python, processed through various data transformations, and visualized in an interactive Power BI dashboard. The goal is to provide insights into biking trends, trip characteristics, and user behaviors across the CitiBike network.
 ![Screenshot 2024-11-10 001356](https://github.com/user-attachments/assets/5a8c036b-30c1-4bee-973c-3c6ae0411720)
 #Features
 
